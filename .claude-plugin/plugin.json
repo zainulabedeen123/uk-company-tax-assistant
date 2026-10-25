@@ -1,0 +1,23 @@
+{
+  "name": "uk-company-tax-assistant",
+  "displayName": "UK Company Tax Assistant",
+  "version": "0.1.0",
+  "description": "Tax and compliance assistant for UK limited companies: Companies House filings (accounts, confirmation statements, director/PSC changes, identity verification) and HMRC taxes (Corporation Tax/CT600, VAT, PAYE, director pay and dividends), with deadline calculators and step-by-step filing guidance.",
+  "author": {
+    "name": "zain"
+  },
+  "homepage": "https://github.com/zainulabedeen123/uk-company-tax-assistant",
+  "repository": "https://github.com/zainulabedeen123/uk-company-tax-assistant",
+  "license": "MIT",
+  "keywords": [
+    "uk",
+    "tax",
+    "companies-house",
+    "hmrc",
+    "corporation-tax",
+    "vat",
+    "paye",
+    "dividends",
+    "limited-company"
+  ]
+}

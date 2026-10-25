@@ -1,0 +1,13 @@
+{
+  "name": "uk-company-tax-assistant",
+  "description": "UK Company Tax Assistant: Companies House and HMRC compliance help for UK limited companies.",
+  "owner": {
+    "name": "zain"
+  },
+  "plugins": [
+    {
+      "name": "uk-company-tax-assistant",
+      "source": "./"
+    }
+  ]
+}
